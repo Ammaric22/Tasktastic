@@ -1,5 +1,4 @@
 # Tasktastic
-#### Video Demo:  <https://youtu.be/o70485WSkF8>
 #### Description:
 # Tasktastic: A To-Do List Web App
 
